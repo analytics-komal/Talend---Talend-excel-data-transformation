@@ -203,7 +203,8 @@ Activities Performed:
 ### Screenshot
 
 ```markdown
-<img width="1179" height="618" alt="image" src="https://github.com/user-attachments/assets/ff47548f-746e-4eff-aa63-5e184d5be982" />
+<img width="1179" height="618" alt="image" src="https://github.com/user-attachments/assets/a23ba2ff-34d5-4c7e-93dc-b90f9780e08d" />
+
 ```
 
 ---
