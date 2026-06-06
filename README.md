@@ -17,6 +17,9 @@ This project demonstrates a simple ETL (Extract, Transform, Load) workflow devel
 
 The objective of this project is to read CRM data from an Excel spreadsheet, perform column mapping and transformation using Talend's tMap component, and print the transformed data into the Talend console using tLogRow.
 
+<img width="1179" height="451" alt="image" src="https://github.com/user-attachments/assets/e3b7c72e-924d-4885-966e-7ed4371b9012" />
+
+
 This project was created as a beginner ETL demonstration to understand:
 
 * Data Extraction
@@ -126,7 +129,7 @@ Load CRM data from Excel and print transformed records into Talend log.
 ### Screenshot
 
 ```markdown
-![New Job](screenshots/01_new_job_creation.png)
+<img width="1179" height="374" alt="image" src="https://github.com/user-attachments/assets/b95ca380-1b82-4428-b0a4-9f40b70a9581" />
 ```
 
 ---
@@ -150,7 +153,7 @@ tFileInputExcel
 ### Screenshot
 
 ```markdown
-![Job Design](screenshots/02_job_design.png)
+<img width="1179" height="451" alt="image" src="https://github.com/user-attachments/assets/5a2ade6c-6e67-4ba4-beb0-d7bcdba42f5a" />
 ```
 
 ---
@@ -170,7 +173,7 @@ Key Settings:
 ### Screenshot
 
 ```markdown
-![Excel Configuration](screenshots/03_excel_configuration.png)
+<img width="1179" height="776" alt="image" src="https://github.com/user-attachments/assets/15402970-9b0b-42ac-9c3c-4852eb62a8bb" />
 ```
 
 ---
@@ -200,7 +203,7 @@ Activities Performed:
 ### Screenshot
 
 ```markdown
-![tMap Mapping](screenshots/04_tmap_mapping.png)
+<img width="1179" height="618" alt="image" src="https://github.com/user-attachments/assets/ff47548f-746e-4eff-aa63-5e184d5be982" />
 ```
 
 ---
@@ -219,8 +222,7 @@ Settings:
 ```markdown
 ![tLogRow Configuration](screenshots/05_tlogrow_configuration.png)
 ```
-<img width="1179" height="374" alt="image" src="https://github.com/user-attachments/assets/99cd0278-049d-4039-b21b-28ab2e09a377" />
-
+<img width="1179" height="474" alt="image" src="https://github.com/user-attachments/assets/3f665361-3f81-4ff7-b4fa-0acaa82539ea" />
 ---
 
 # Step 6 - Execute Job
@@ -236,7 +238,7 @@ Result:
 ### Screenshot
 
 ```markdown
-![Execution Result](screenshots/06_execution_result.png)
+<img width="1179" height="827" alt="image" src="https://github.com/user-attachments/assets/9285a2ee-2c5a-4965-b449-2ac25db47880" />
 ```
 
 ---
@@ -339,4 +341,9 @@ crm-data
 data-transformation
 github-portfolio
 beginner-project
+data-analysis
+data-cleaning
+data-transformation
+data-collection
+sync-data
 ```
