@@ -219,6 +219,7 @@ Settings:
 ```markdown
 ![tLogRow Configuration](screenshots/05_tlogrow_configuration.png)
 ```
+<img width="1179" height="374" alt="image" src="https://github.com/user-attachments/assets/99cd0278-049d-4039-b21b-28ab2e09a377" />
 
 ---
 
